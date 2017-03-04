@@ -1,0 +1,4 @@
+www.google.com Morning 2.2.2.2 1488628144 26
+www.google.com AfterNoon 45.45.45.45 1488628075 0
+www.google.com Noon 12.12.1.12 1488628079 63
+www.google.com Night 3.3.3.3 1488628137 32
